@@ -24,7 +24,7 @@ notebooks/   -> Notebook de análisis, entrenamiento y evaluación
 
 ## 🛠️ Herramientas y Librerías
 
-Este proyecto utiliza las siguientes versiones y librerías clave de Python:
+Este proyecto utiliza las siguientes librerías de Python:
 
 *   Python
 *   `pandas`
