@@ -36,7 +36,7 @@ Este proyecto utiliza las siguientes versiones y librerías clave de Python:
 *   `Plotly`
 *   `Matplotlib`
 
-## 👨‍🏫👩‍🏫 Autores
+## 👨‍🏫👩‍🏫👨‍🏫 Autores
 
 *   **Meza Chico Ariel Antonio**
 *   **Navas Lema Maria Cristina**
